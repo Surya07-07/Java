@@ -1,0 +1,13 @@
+# Problem Statement
+Students often face difficulty tracking daily expenses. This project aims to solve this problem.
+
+# Scope
+The system allows adding expenses, listing them, and generating reports.
+
+# Target Users
+Students who want to manage their daily spending.
+
+# High-Level Features
+- Add, view, and summarize expenses
+- Category-wise totals
+
